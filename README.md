@@ -4,6 +4,6 @@
 
 ----------------
 
-# hub-spoke-network-topology-architecture
+# hub-spoke-network-architecture
 
 <img width="600" alt="Architecture-diag" src=https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/hybrid-networking/images/hub-spoke.png#lightbox>
